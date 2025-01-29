@@ -5,7 +5,6 @@ h1 {
     
     table {
       margin: 20px;
-      /* border-collapse: collapse; */
       border: 1px solid black;
       padding: 1px;
       spacing:1px;
@@ -34,15 +33,14 @@ h1 {
         padding: 10px;
     }
 
-    #table-3 tr #green{
+    #table-3 #green{
         background-color: green;
     }
-    #table-3 tr #blue{
+    #table-3 #blue{
         background-color: blue;
     }
     td {
       border: 1px solid black;
-      padding: 5px;
       text-align: center;
     
     }
