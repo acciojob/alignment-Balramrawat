@@ -14,10 +14,10 @@ h1 {
     #table-1 {
         width: 100vh;
     }
-    #table-1 tr #left{
+    #table-1 tr #t11{
         text-align: left;
     }
-    #table-1 tr #right{
+    #table-1 tr #t13{
         text-align: right;
     }
 
